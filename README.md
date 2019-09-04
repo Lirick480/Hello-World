@@ -1,2 +1,2 @@
 # Hello-World
-Hello World, My first repository, newbie here first steps in programing universe
+Hello World and kind humans, My first repository, newbie here first steps in programing universe.
